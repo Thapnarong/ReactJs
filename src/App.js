@@ -42,7 +42,7 @@ function App() {
       }}
     >
       <div className="container">
-        <h1 style={design}> แอพบัญชีรายรับ - รายจ่าย</h1>
+        <h1 style={design}> แอพบัญชีรายรับบบบบ - รายจ่าย</h1>
         <Router>
           <div>
             <ul className="horizontal-menu">
