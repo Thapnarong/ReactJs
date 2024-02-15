@@ -25,10 +25,14 @@ body {
   overflow: hidden;
   background: #333;
   text-align: center;
+  justify-content: space-between;
 }
 
 .horizontal-menu li {
   display: inline-block;
+}
+.horizontal-menu > li:first-of-type {
+  border-right: 1px solid #dedede;
 }
 
 .horizontal-menu a {
